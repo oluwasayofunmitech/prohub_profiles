@@ -1,0 +1,10 @@
+.bg-dark{
+    background: blackm!important;
+}
+.jumbotron h1{
+    font-size: 30px;
+}
+.jumbotron h1 span{
+    font-size: 35px;
+    font-weight: bold;
+}
